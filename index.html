@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown Timer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        #timer {
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <div id="timer">01:00</div>
+
+    <script>
+        let time = 60;
+        const timerElement = document.getElementById('timer');
+
+        const countdown = setInterval(() => {
+            if (time <= 0) {
+                clearInterval(countdown);
+                alert("the count is over!");
+            } else {
+                time--;
+                const minutes = Math.floor(time / 60);
+                const seconds = time % 60;
+                timerElement.textContent = 
+                    (minutes < 10 ? '0' : '') + minutes + ':' + 
+                    (seconds < 10 ? '0' : '') + seconds;
+            }
+        }, 1000);
+    </script>
+</body>
+</html>

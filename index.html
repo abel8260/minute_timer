@@ -1,73 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!--Basic tags-->
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Countdown Timer</title>
-    <!--Basic END-->
-    
-    <!--tags for SEO-->
-        <meta name="descripition" content="clock for time, Timer. Basic timer."/>  
-        <meta name="keywords" content="time. watch time, minute timer"/>
-        <meta name="author" content="abel vb"/>
-    <!--seo-END-->
-    
-    <!--tags for favicon-->
-        <link rel="icon" href="./favicon.ico" type="image/x-icon">
-        <link rel="icon" href="./favicon.png" type="image/png">
-    <!--favicon-END-->
+    <!-- Basic tags for character encoding, viewport settings, and title -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown Timer</title>
+    <!-- Basic tags END -->
 
-    <!--tags for open graph-->
-        <meta property="og:title" content="Minute timer" />
-        <meta property="og:type" content="timer" />
-        <meta property="og:url" content="https://abel8260.github.io/minute_timer/" />
-        <meta property="og:image" content="https://abel8260.github.io/minute_timer/ogimg.png" />
-    <!--ogEND-->
+    <!-- SEO tags for description, keywords, and author -->
+    <meta name="description" content="clock for time, Timer. Basic timer."/>  
+    <meta name="keywords" content="time, watch time, minute timer"/>
+    <meta name="author" content="abel vb"/>
+    <!-- SEO tags END -->
+
+    <!-- Favicon tags for different formats -->
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./favicon.png" type="image/png">
+    <!-- Favicon tags END -->
+
+    <!-- Open Graph tags for social media sharing -->
+    <meta property="og:title" content="Minute timer" />
+    <meta property="og:type" content="timer" />
+    <meta property="og:url" content="https://abel8260.github.io/minute_timer/" />
+    <meta property="og:image" content="https://abel8260.github.io/minute_timer/ogimg.png" />
+    <!-- Open Graph tags END -->
+
+    <!-- CSS styles for the timer display -->
     <style>
+        /* Style for the timer display */
         #timer {
+            /* Set font size to 2em for larger display */
             font-size: 2em;
-             font-family: Arial, sans-serif;
+            /* Set font family to Arial, fallback to sans-serif */
+            font-family: Arial, sans-serif;
+            /* Use flexbox to center content */
             display: flex;
             justify-content: center;
             align-items: center;
+            /* Set height to 80% of the viewport height */
             height: 80vh;
+            /* Remove default margins */
             margin: 0;
+            /* Set background color to a light grey */
             background-color: #f0f0f0;
         }
     </style>
 </head>
 <body>
+    <!-- Header section containing the timer display -->
     <header>  
         <div id="timer">01:00</div>
     </header>
   
+    <!-- Navigation section with an embedded ad -->
     <nav>
         <iframe data-aa='2341045' src='//ad.a-ads.com/2341045?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
     </nav>
     
+    <!-- Footer section with author information -->
     <footer>
         <p>Author: Made with AI</p>
         <p>Edit BY: Abel VB</p>  
     </footer>
     
+    <!-- JavaScript for the countdown timer functionality -->
     <script>
+        // Initial time in seconds
         let time = 60;
+        // Get the timer element from the DOM
         const timerElement = document.getElementById('timer');
 
+        // Function to update the timer every second
         const countdown = setInterval(() => {
             if (time <= 0) {
+                // Clear the interval when the countdown is over
                 clearInterval(countdown);
-                alert("the count is over!");
+                // Alert the user that the countdown is over
+                alert("The count is over!");
             } else {
+                // Decrease the time by one second
                 time--;
+                // Calculate minutes and seconds
                 const minutes = Math.floor(time / 60);
                 const seconds = time % 60;
+                // Update the timer display with leading zeros if necessary
                 timerElement.textContent = 
                     (minutes < 10 ? '0' : '') + minutes + ':' + 
                     (seconds < 10 ? '0' : '') + seconds;
             }
-        }, 1000);
+        }, 1000); // Repeat every second (1000 milliseconds)
     </script>
 </body>
 </html>

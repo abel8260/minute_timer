@@ -6,7 +6,7 @@ The user-friendly features of WikiTimer make it suitable for everyone, from stud
 <br/>
 With WikiTimer, you have a precise tool that helps you stay on track and focused. The dedicated 60-second countdown aids in making the most of every minute, turning potential distractions into productive intervals. WikiTimer is a reliable companion for managing your time effectively.<br/>
 <br/>
-**Languages:**<br/>
+<b>Languages:</b><br/>
 <br/>
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" /> : Javascript<br/>
 <br/>

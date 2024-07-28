@@ -1,7 +1,3 @@
-Sure! Here is a draft for the Terms of Service and Privacy Policy for a timer application called "Minute Timer."
-
----
-
 ## Minute Timer Terms of Service
 
 **Effective Date:** [27/07/24]

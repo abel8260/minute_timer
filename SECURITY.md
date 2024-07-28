@@ -4,7 +4,7 @@ Sure! Here is a draft for the Terms of Service and Privacy Policy for a timer ap
 
 ## Minute Timer Terms of Service
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [27/07/24]
 
 Welcome to Minute Timer! By using our services, you agree to the following terms and conditions:
 
@@ -31,10 +31,10 @@ In no event shall Minute Timer be liable for any indirect, incidental, special, 
 We reserve the right to modify these terms at any time. We will provide notice of such changes by updating the "Effective Date" at the top of this document. Your continued use of the application after any changes indicates your acceptance of the new terms.
 
 ### 8. Governing Law
-These terms shall be governed and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law provisions.
+These terms shall be governed and construed in accordance with the laws of [BR/CE/+55], without regard to its conflict of law provisions.
 
 ### 9. Contact Us
-If you have any questions about these Terms, please contact us at [Your Contact Information].
+If you have any questions about these Terms, please contact us at [abelvbarbosa@gmail.com].
 
 ---
 

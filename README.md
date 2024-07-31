@@ -23,5 +23,6 @@ With WikiTimer, you have a precise tool that helps you stay on track and focused
 <br/>
 ## Support on:<br/>
 -> https://github.com/abel8260/minute_timer/discussions
+<br/>
 ## Refference (imgs):<br/>
 -> https://github.com/Pedro-Murilo/icons-for-readme

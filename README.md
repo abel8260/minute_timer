@@ -9,9 +9,9 @@ With WikiTimer, you have a precise tool that helps you stay on track and focused
 <hr/>
 <b>Languages:</b><br/>
 <br/>
-<a width="75px"  href="https://imgbb.com/"><img src="https://i.ibb.co/m4qkwN9/Screenshot-from-2024-07-31-06-06-21.png" alt="Screenshot-from-2024-07-31-06-06-21" border="0"></a>
-<a width="75px"  href="https://imgbb.com/"><img src="https://i.ibb.co/P5t7zGc/Screenshot-from-2024-07-31-06-05-01.png" alt="Screenshot-from-2024-07-31-06-05-01" border="0"></a>
-<a width="75px"  href="https://imgbb.com/"><img src="https://i.ibb.co/h8cgJPz/Screenshot-from-2024-07-31-06-03-31.png" alt="Screenshot-from-2024-07-31-06-03-31" border="0"></a>
+<a w  href="https://imgbb.com/"><img width="75px" src="https://i.ibb.co/m4qkwN9/Screenshot-from-2024-07-31-06-06-21.png" alt="Screenshot-from-2024-07-31-06-06-21" border="0"></a>
+<a href="https://imgbb.com/"><img width="75px"src="https://i.ibb.co/P5t7zGc/Screenshot-from-2024-07-31-06-05-01.png" alt="Screenshot-from-2024-07-31-06-05-01" border="0"></a>
+<a href="https://imgbb.com/"><img width="75px" src="https://i.ibb.co/h8cgJPz/Screenshot-from-2024-07-31-06-03-31.png" alt="Screenshot-from-2024-07-31-06-03-31" border="0"></a>
 <br/>
 <hr/>
 <b>Made by:</b><br/>

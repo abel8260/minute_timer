@@ -9,9 +9,9 @@ With WikiTimer, you have a precise tool that helps you stay on track and focused
 <hr/>
 <b>Languages:</b><br/>
 <br/>
-<a w  href="https://imgbb.com/"><img width="75px" src="https://i.ibb.co/m4qkwN9/Screenshot-from-2024-07-31-06-06-21.png" alt="Screenshot-from-2024-07-31-06-06-21" border="0"></a>
-<a href="https://imgbb.com/"><img width="75px"src="https://i.ibb.co/P5t7zGc/Screenshot-from-2024-07-31-06-05-01.png" alt="Screenshot-from-2024-07-31-06-05-01" border="0"></a>
-<a href="https://imgbb.com/"><img width="75px" src="https://i.ibb.co/h8cgJPz/Screenshot-from-2024-07-31-06-03-31.png" alt="Screenshot-from-2024-07-31-06-03-31" border="0"></a>
+<a href="https://imgbb.com/"><img width="75px" src="https://i.ibb.co/m4qkwN9/Screenshot-from-2024-07-31-06-06-21.png" alt="javascript initials with a little halo in yellow (a ball yellow too) with the name JS in black" border="0"></a>
+<a href="https://imgbb.com/"><img width="75px"src="https://i.ibb.co/P5t7zGc/Screenshot-from-2024-07-31-06-05-01.png" alt="c.s.s. Styles. CSS initials in a blue ball with a short halo all in blue. The text is in white." border="0"></a>
+<a href="https://imgbb.com/"><img width="75px" src="https://i.ibb.co/h8cgJPz/Screenshot-from-2024-07-31-06-03-31.png" alt="H.T.M.L. HTML in a ball orange with html in black letters. (The short halo is in ti by orange)" border="0"></a>
 <br/>
 <hr/>
 <b>Made by:</b><br/>

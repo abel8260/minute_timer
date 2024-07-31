@@ -18,3 +18,6 @@ With WikiTimer, you have a precise tool that helps you stay on track and focused
 <hr/><br/>
 ## Documentation:<br/>
 -> https://github.com/abel8260/minute_timer/wiki
+<br/>
+## Support on:<br/>
+-> https://github.com/abel8260/minute_timer/discussions
